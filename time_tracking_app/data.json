@@ -1,11 +1,5 @@
 [
     {
-        "title": "Mow the lawn",
-        "project": "House Chores",
-        "elapsed": 5456099,
-        "id": "0a4a79cb-b06d-4cb1-883d-549a1e3b66d7"
-    },
-    {
         "title": "Clear paper jam",
         "project": "Office Chores",
         "elapsed": 1273998,
@@ -15,7 +9,21 @@
         "title": "Ponder origins of universe",
         "project": "Life Chores",
         "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f",
-        "elapsed": 11750,
-        "runningSince": 1456225941911
+        "elapsed": 99088621516,
+        "runningSince": null
+    },
+    {
+        "title": "A title",
+        "project": "test",
+        "id": "bec00135-0338-40d6-a6d4-37d7c20c0aab",
+        "elapsed": 0,
+        "runningSince": 1555314547605
+    },
+    {
+        "title": "111",
+        "project": "111",
+        "id": "df391a52-0ec3-4398-86fc-bf0251b51111",
+        "elapsed": 0,
+        "runningSince": null
     }
 ]
